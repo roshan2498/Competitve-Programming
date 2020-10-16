@@ -24,7 +24,7 @@ Install-Module -Name PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
 ```
 
 ### Windows Terminal settings.json : 
-    <<Add Link>>
+   https://raw.githubusercontent.com/roshan2498/Competitve-Programming/main/customizations/settings.json.txt
 
 ### Remove Powershell Logo From VS Code : 
    ``` "terminal.integrated.shellArgs.windows": ["-nologo"]```
