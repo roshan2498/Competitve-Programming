@@ -10,3 +10,5 @@
    ![alt text](./assets/packages.png)
 
     Optional : Enable Vintage Plugin(adds vim support to sublime.)
+
+[Main Docs](README.md)

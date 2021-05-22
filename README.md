@@ -28,3 +28,5 @@ Install-Module -Name PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
 
 ### Remove Powershell Logo From VS Code : 
    ``` "terminal.integrated.shellArgs.windows": ["-nologo"]```
+
+[Sublime Text Setup](sublimetextsetup.md)
