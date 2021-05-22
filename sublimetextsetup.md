@@ -3,7 +3,7 @@
     
     1.Install Sublime text. 
 	2.Install g++ compiler.
-	3.Install clangd,llvm,LSP(for autocomplete in sublime text)
+	3.Install clangd,llvm(for autocomplete in sublime text)
 	4.Setup sublime themes(personal preferance)
 	5.Install Following Packages 
         
